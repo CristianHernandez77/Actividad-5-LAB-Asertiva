@@ -10,3 +10,4 @@
 |:---:|:------------------------------------:|:---------:|
 | 1   | Aimar Emmanuel Barrios Gozalez       | 202502967 | 
 | 2   | Carlos Andrés Hernández Vásquez      | 202501470 | 
+| 3   | Cristian Miguel Hernandez Raymundo    | 202505139 | 
