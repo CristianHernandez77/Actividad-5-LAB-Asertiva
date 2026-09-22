@@ -38,12 +38,12 @@
 ### a) Técnica del sándwich
 *(comentario positivo → aspecto a mejorar → cierre positivo)*
 
-> "Primero, gracias por entregar a tiempo, sé que tienes tus que haceres y tu trabajo. Revisando tu parte, noté que faltan algunos apartados y hay errores en los cálculos que pueden afectar la nota de la entrega, sería bueno revisarlos juntos antes de la entrega. Tienes buena base, pero arreglándolo antes de entregarlos podrias cumplir con lo requerido ."
+"Primero, gracias por entregar a tiempo, sé que tienes tus que haceres y tu trabajo. Revisando tu parte, noté que faltan algunos apartados y hay errores en los cálculos que pueden afectar la nota de la entrega, sería bueno revisarlos juntos antes de la entrega. Tienes buena base, pero arreglándolo antes de entregarlos podrias cumplir con lo requerido ."
 
 ### b) Técnica situacional
 *(situación → comportamiento observado → impacto)*
 
-> "Sobre la entrega de ayer: noté que faltaron dos secciones y algunos datos no coinciden con lo acordado en la reunión. Esto nos está retrasando porque el resto del equipo depende de esa parte para avanzar y entre mas te atrases mas estrés genera y peor sera para todos. ¿Podemos revisarlo hoy para ajustarlo a tiempo?"
+"Sobre la entrega de ayer: noté que faltaron dos secciones y algunos datos no coinciden con lo acordado en la reunión. Esto nos está retrasando porque el resto del equipo depende de esa parte para avanzar y entre mas te atrases mas estrés genera y peor sera para todos. ¿Podemos revisarlo hoy para ajustarlo a tiempo?"
 
 ### c) Regulación emocional aplicada
 
