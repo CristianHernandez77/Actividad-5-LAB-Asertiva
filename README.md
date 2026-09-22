@@ -8,3 +8,4 @@
 **Integrantes:**  
 | No. | Nombre                               | Carnet    |
 |:---:|:------------------------------------:|:---------:|
+| 1   | Aimar Emmanuel Barrios Gozalez       | 202502967 | 
