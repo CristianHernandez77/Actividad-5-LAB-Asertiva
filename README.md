@@ -12,7 +12,33 @@
 | 2   | Carlos Andrés Hernández Vásquez      | 202501470 | 
 | 3   | Cristian Miguel Hernandez Raymundo    | 202505139 | 
 
+# Tarjeta 1: Establecer límites de forma profesional
 
+**Situación:** Un compañero de equipo te escribe constantemente pidiéndote ayuda con su parte del trabajo. Tú ya terminaste tus tareas y tienes otras responsabilidades pendientes, pero él insiste en que le ayudes "solo un momento", varias veces.
+
+**Reto:** Debes responder aplicando comunicación asertiva, estableciendo un límite claro sin afectar la relación.
+
+**Objetivo:** Practicar cómo decir "no" de manera profesional, respetuosa y firme.
+
+---
+
+## 1. Identificar el problema comunicativo
+
+- **Problema de fondo:** La otra persona insiste de manera repetitiva a pesar de que ya cumplí con mis asignaciones, lo que me quita tiempo vital para mis propias obligaciones.
+- **Problema comunicativo:** Cómo poner un alto claro sin caer en dos extremos:
+  - **Estilo pasivo:** Aceptar por pena o para evitar un mal momento, terminando cargando con pendientes ajenos y descuidando lo mío.
+  - **Estilo agresivo:** Contestar de mala gana, enojarme o hacer sentir mal al compañero por estar insistiendo tanto.
+
+## 2. Aplicar técnicas de comunicación asertiva
+
+### a) Establecer el límite y decir "no" con profesionalismo
+
+"Hola, la verdad entiendo perfectamente que quieras avanzar con tu parte y que sientas que es algo rápido. Dicho eso, ahorita sí tengo un montón de pendientes y responsabilidades mías que me toca sacar adelante, entonces ahorita no te voy a poder echar la mano con eso. Confío en que le vas a agarrar la onda para sacarlo, o si querés lo platicamos más al rato cuando desocupe un cacho de tiempo."
+
+### b) Regulación emocional aplicada
+
+- **Tono calmado:** Hablar de forma tranquila, sin sonar molesto ni sarcástico, manteniendo una actitud neutral pero segura.
+- **Control de la comunicación:** Hacer pequeñas pausas antes de responder para no contestar a la defensiva por la insistencia, controlando los impulsos y cuidando el lenguaje corporal para transmitir seguridad y respeto mutuo.
 
 
 
