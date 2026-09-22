@@ -40,7 +40,18 @@
 - **Tono calmado:** Hablar de forma tranquila, sin sonar molesto ni sarcástico, manteniendo una actitud neutral pero segura.
 - **Control de la comunicación:** Hacer pequeñas pausas antes de responder para no contestar a la defensiva por la insistencia, controlando los impulsos y cuidando el lenguaje corporal para transmitir seguridad y respeto mutuo.
 
+## 3. Retroalimentación grupal
 
+| Criterio | Evaluación del ejemplo |
+| :--- | :--- |
+| **Claridad del mensaje** | El mensaje rechaza la solicitud de forma directa y clara, especificando que existen prioridades pendientes y limitaciones de tiempo, sin rodeos ni ambigüedades. |
+| **Tono utilizado** | Firme pero cordial; se reconoce la iniciativa del compañero con empatía, pero se mantiene la negativa de forma clara y respetuosa. |
+| **Nivel de profesionalismo** | Se mantiene el enfoque en la gestión del tiempo y las responsabilidades individuales, evitando excusas falsas o ataques personales hacia la insistencia del compañero. |
+| **Manejo emocional** | Se evidencia en la postura firme, el tono calmado y la capacidad de poner un límite sin culpa ni reacciones a la defensiva. |
+
+## Conclusión del análisis
+
+El problema no era la solicitud de ayuda en sí, sino el riesgo de no saber poner límites a tiempo. Usando una comunicación asertiva, el compañero comprende la situación sin sentirse atacado ni rechazado de forma grosera, logrando entender la carga de trabajo personal y evitando interrupciones que afecten el rendimiento de ambos.
 
 # Tarjeta 2: Dar feedback a un compañero
 
