@@ -63,3 +63,59 @@
 ## Conclusión del análisis
 
 El problema no era el error en sí, sino el riesgo de comunicarlo mal. Usando cualquiera de las dos técnicas, el compañero recibe la información necesaria para corregir sin sentirse juzgado por el trabajo sino mas bien sentir el apoyo por parte del equipo que lo tomo de forma adecuada y empatica, logrando así  avanzar sin fricción.
+
+# Tarjeta 3: Negociar una fecha de entrega
+
+**Situación:** Tienes varias entregas importantes el mismo día y no podrás cumplir con una de ellas a tiempo. Necesitas comunicarte con el docente o con tu equipo para solicitar una extensión.
+
+**Reto:** Negociar una nueva fecha explicando tu situación de forma clara, responsable y profesional.
+
+**Objetivo:** Practicar la negociación asertiva manteniendo credibilidad y compromiso.
+
+---
+
+## 1. Identificar el problema comunicativo
+
+- **Problema de fondo:** acumulación de entregas importantes en la misma fecha, lo que impide cumplir con una de ellas a tiempo y con la calidad requerida.
+- **Problema comunicativo:** cómo comunicar esta situación sin caer en dos extremos:
+  - **Estilo pasivo:** no decir nada, entregar tarde o incompleto sin avisar, esperando que no pase nada.
+  - **Estilo agresivo:** exigir la extensión como si fuera una obligación del docente como "tengo mucho trabajo, tiene que darme más tiempo" lo que genera rechazo y  poco a poco se va perdiendo credibilidad.
+
+---
+
+## 2. Aplicar técnicas de comunicación asertiva
+
+### a) Técnica situacional
+*(situación → comportamiento → impacto → propuesta)*
+
+se podria decir como:
+"Profesor, esta semana tengo tres entregas importantes programadas para el mismo día. Al revisar mi cronograma me di cuenta de que no podré dedicarle a esta entrega el tiempo que requiere para hacerla bien. Si la entrego así, el trabajo no reflejaría el esfuerzo ni la calidad que usted espera, y eso afectaría mi nota y mi aprendizaje. ¿Sería posible que me permitiera entregarla el [nueva fecha]? Mi plan es terminar las otras dos primero y enfocarme en esta durante los días siguientes."
+
+### b) Técnica del sándwich
+*(comentario positivo → aspecto a mejorar → cierre positivo)*
+
+seria tipo: "Profesor, quiero agradecerle porque las indicaciones de la entrega fueron muy claras y me ayudaron a avanzar bien en la parte que ya tengo lista. Sin embargo, al revisar mis fechas noté que tengo varias entregas el mismo día y no podré terminar esta con la calidad que merece. Me gustaría pedirle si es posible una extensión hasta el [nueva fecha], comprometiéndome a entregar un trabajo completo y bien elaborado. Agradezco mucho su comprensión y quedo atento a su respuesta."
+
+### c) Regulación emocional aplicada
+
+- Tono calmado y respetuoso, sin sonar desesperado ni exigente.
+- Pausa antes de hablar para ordenar las ideas y no caer en excusas emocionales.
+- Enfoque en la responsabilidad propia como "no podré dedicarle el tiempo que requiere", o la tipica de culpar a otros "es que todos los profes dejan todo para el mismo día".
+- Mantener lenguaje corporal abierto y actitud colaborativa durante toda la conversación.
+
+---
+
+## 3. Retroalimentación grupal
+
+| Criterio | Evaluación del ejemplo |
+|---|---|
+| **Claridad del mensaje** | Se explica con precisión la situación la tres entregas el mismo día que dificultan, el motivo de la solicitud de no habrá tiempo suficiente y la propuesta concreta como nueva fecha y plan de acción. |
+| **Tono utilizado** | Cordial y profesional en ambas técnicas; en la situacional es más directo pero respetuoso, en la del sándwich es más suave por el marco positivo inicial. |
+| **Nivel de profesionalismo** | Se asume la responsabilidad, se evitan excusas y se propone una solución concreta con compromiso de cumplimiento. No se culpa al docente ni a otros cursos. |
+| **Manejo emocional** | Se evidencia en la pausa previa, el tono controlado, la anticipación del aviso de no esperar hasta el último momento y la actitud colaborativa al proponer un plan. |
+
+---
+
+## Conclusión del análisis
+
+El problema no era solo la falta de tiempo, sino el riesgo de comunicarlo mal: callar y entregar tarde (pasivo) o exigir la extensión como un derecho (agresivo). Usando cualquiera de las dos técnicas, el docente recibe la información necesaria para evaluar la solicitud sin sentirse presionado, y el estudiante mantiene su credibilidad y compromiso. La clave estuvo en avisar con anticipación, asumir la responsabilidad y proponer una solución concreta, logrando así una negociación respetuosa y efectiva.
