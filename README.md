@@ -156,3 +156,7 @@ seria tipo: "Profesor, quiero agradecerle porque las indicaciones de la entrega 
 ## Conclusión del análisis
 
 El problema no era solo la falta de tiempo, sino el riesgo de comunicarlo mal: callar y entregar tarde (pasivo) o exigir la extensión como un derecho (agresivo). Usando cualquiera de las dos técnicas, el docente recibe la información necesaria para evaluar la solicitud sin sentirse presionado, y el estudiante mantiene su credibilidad y compromiso. La clave estuvo en avisar con anticipación, asumir la responsabilidad y proponer una solución concreta, logrando así una negociación respetuosa y efectiva.
+
+
+### Imagen de la reunion:  
+![Imagen](imagen.jpeg)
